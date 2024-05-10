@@ -10,8 +10,8 @@
 
 ###  Confira aqui a análise
 
-- [Notebook do projeto](https://github.com/pat-weber/games_project/blob/main/eda.ipynb).
-- [Notebook de funções utilizadas](https://github.com/pat-weber/games_project/blob/main/lib.ipynb)
+- [Notebook do projeto](https://github.com/pat-weber/Games_project/blob/main/games_project/notebooks/eda.ipynb).
+- [Notebook de funções utilizadas](https://github.com/pat-weber/Games_project/blob/main/games_project/notebooks/lib.py)
 
 
 ### Confira aqui a base de dados:
